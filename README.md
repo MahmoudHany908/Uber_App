@@ -12,6 +12,6 @@ This project implements a ride-hailing system similar to Uber, allowing users to
 - Reporting (using Crystal Reports)
 
 ## Requirements
-- .NET Core SDK (version X.X.X)
-- Oracle Database (or any other supported database)
+- .NET Core SDK 
+- Oracle Database 11g (or any other supported database)
 - Visual Studio (or any other C# IDE)
